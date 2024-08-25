@@ -17,7 +17,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/amazon-clone.git
+git clone https://github.com/SATYAM-CHOUHAN/amazon-clone-/
 Navigate to the project directory:
 
 bash
