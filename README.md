@@ -1,6 +1,7 @@
 🛒 Amazon Clone
 
-Welcome to the Amazon Clone project! This is a basic HTML and CSS replica of the Amazon homepage, designed to showcase a simple and clean layout inspired by the real Amazon website. Please note that this project does not include any functionality—it's purely for visual and layout purposes.
+Welcome to the Amazon Clone project! This is a basic HTML and CSS replica of the Amazon homepage, designed to showcase a simple and clean layout inspired by the real Amazon website. Please note that this project does not include any functionality—it's purely for visual and layout purposes.\
+
 To view the project:- https://satyam-chouhan.github.io/amazon-clone-/
 
 🎨 Features
